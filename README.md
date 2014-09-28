@@ -1,4 +1,4 @@
-silkyjump
+SilkyJump
 =========
 
-Quick jump to imported file in silky
+Quick jump to the imported file in Silky
