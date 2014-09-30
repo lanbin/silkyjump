@@ -2,7 +2,7 @@
 	"schema_version": "0.1",
 	"packages": [{
 		"name": "SilkyJump",
-		"description": "Quick jump to the imported file in Silky",
+		"description": "Quick jump to the imported file in Silky! Silky Jump supports Sublime Text 2(Mac) for now",
 		"author": "Lanbin",
 		"homepage": "https://github.com/lanbin/silkyjump",
 		"last_modified": "2014.09.28",
